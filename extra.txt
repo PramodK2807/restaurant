@@ -1,0 +1,39 @@
+
+***********  PAGE 1 ***********
+
+
+* Find By The City (All City)
+> http://localhost:2000/location
+
+* Find By The Restaurant (All)
+> http://localhost:2000/restaurant
+
+* Find By The Restaurant ( State id)
+> http://localhost:2000/restaurant/3
+
+* Find By The Meal (All Meal types)
+> http://localhost:2000/meal
+
+
+
+****** PAGE 2 *******
+
+
+
+
+****** PAGE 3 *******
+
+* Details of Restaurant (by rest Id)
+> http://localhost:2000/details/2
+
+* Menu wrt Restaurant
+
+
+
+****** PAGE 4 *******
+
+
+
+* search by category i.e. kids action comedy
+* search by movie name 
+* 
